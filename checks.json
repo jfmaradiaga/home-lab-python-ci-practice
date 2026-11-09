@@ -3,6 +3,8 @@
   "checks": [
     ["sbx01", 2, "PASS"],
     ["sbx01", 1, "FAIL"],
-    ["dev01", 1, "FAIL"]
+    ["dev01", 1, "FAIL"],
+    ["dev01", 2, "PASS"],
+    ["stg01", 1, "PASS"]
   ]
 }
